@@ -20,21 +20,24 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [DSA-CP-and-JS-Practice](https://github.com/harshabayyaram/DSA-Practice)
 
-- 📝 I regularly write articles on [https://namansaxena-official.medium.com/](https://namansaxena-official.medium.com/)
+- 📝 I regularly write articles on [https://namansaxena-official.medium.com/](https://harshabayyaram.hashnode.dev/)
 
 - 💬 Ask me about **Web development**
 
 - 📫 How to reach me **bayyaramharsha@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/161ypNq2BogatAk_Jdr0ub3GM_uJZVXaX/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cUUoeJPpKMLdY_WtGtNTO1GgvfGxSJIq/view?usp=sharing)
 
-- ⚡ Fun fact **I am obsessed with milky way and astro photography**
+- ⚡ Fun fact **I love coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/naman-saxena-5460b3188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naman-saxena-5460b3188" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshath-kumar-bayyaram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsha-bayyaram-linkedin" height="30" width="40" /></a>
+ 
 <a href="https://medium.com/@namansaxena-official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@namansaxena-official" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/naman_saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naman_saxena" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
