@@ -34,9 +34,6 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://www.linkedin.com/in/harshath-kumar-bayyaram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsha-bayyaram-linkedin" height="30" width="40" /></a>
  
-<a href="https://medium.com/@namansaxena-official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@namansaxena-official" height="30" width="40" /></a>
-
-<a href="https://www.leetcode.com/naman_saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naman_saxena" height="30" width="40" /></a>
 
 </p>
 
