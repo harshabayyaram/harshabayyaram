@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Harshath Kumar Bayyaram</h1>
 <h3 align="center">A passionate Full-stack developer</h3>
 
-- 🔭 I’m currently working on [DSA-CP-and-JS-Practice](https://github.com/harshabayyaram/DSA-Practice)
+- 🔭 I’m currently working on [https://github.com/harshabayyaram/DSA-Practice](https://github.com/harshabayyaram/DSA-Practice)
 
-- 📝 I regularly write articles on [https://namansaxena-official.medium.com/](https://harshabayyaram.hashnode.dev/)
+- 📝 I regularly write articles on [https://harshabayyaram.hashnode.dev/](https://harshabayyaram.hashnode.dev/)
 
 - 💬 Ask me about **Web development**
 
