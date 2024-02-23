@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **bayyaramharsha@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cUUoeJPpKMLdY_WtGtNTO1GgvfGxSJIq/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SXqldLoC0DUypi-aswI600cQevNxwoZp/view?usp=sharing)
 
 - ⚡ Fun fact **I love coding**
 
