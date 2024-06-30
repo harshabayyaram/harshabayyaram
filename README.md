@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [https://github.com/harshabayyaram/DSA-Practice](https://github.com/harshabayyaram/DSA-Practice)
 
-- 📝 I regularly write articles on [https://harshabayyaram.hashnode.dev/](https://harshabayyaram.hashnode.dev/)
+- 📝 I write articles on [https://harshabayyaram.hashnode.dev/](https://harshabayyaram.hashnode.dev/)
 
 - 💬 Ask me about **Web development**
 
