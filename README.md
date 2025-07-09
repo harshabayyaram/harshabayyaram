@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Harshath Kumar Bayyaram</h1>
 <h3 align="center">A passionate Full-stack developer</h3>
 
-- 🔭 I’m currently working on a Health Care Project[)
+- 🔭 I’m currently upskillling self
 
 - 📝 I write articles on [https://harshabayyaram.hashnode.dev/](https://harshabayyaram.hashnode.dev/)
 
