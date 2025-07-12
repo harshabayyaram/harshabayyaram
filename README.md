@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1>Building something new everyday</h1>
 Full-Stack Developer | Expert in Building & Deploying Scalable Web App
 
