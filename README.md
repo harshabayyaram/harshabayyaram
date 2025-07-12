@@ -1,14 +1,14 @@
-<h1>Building something new everyday</h1>
+<h2>Building something new everyday 😎</h2>
 Full-Stack Developer | Expert in Building & Deploying Scalable Web App
 
-<h3 align="left">Connect with me:</h3>
+<h6 align="left">Connect with me:</h6>
 <p align="left">
 <a href="https://www.linkedin.com/in/harshath-kumar-bayyaram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsha-bayyaram-linkedin" height="30" width="40" /></a>
  
 
 </p>
 
-<h5 align="left">Languages and Tools:</h5>
+<h6 align="left">Languages and Tools:</h6>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
