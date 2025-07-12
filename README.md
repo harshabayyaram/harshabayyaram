@@ -1,8 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi, I'm Harshath Kumar Bayyaram</h1>
-<h3 align="center">A passionate Full-stack developer</h3>
 <h1>Building something new everyday</h1>
-<hr>
 Full-Stack Developer | Expert in Building & Deploying Scalable Web App
 
 <h3 align="left">Connect with me:</h3>
